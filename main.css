@@ -20,7 +20,7 @@ ul {
 }
 .ball {
   height: 300px;
-  background-color: #FEBE10;
+  background: linear-gradient(to top, #FEBE10, #ffffff);
 }
 
 .ball .yellow-box{
