@@ -12,7 +12,10 @@ ul {
   height: 400px;
 }
   
-
+.main a {
+  padding: 7px;
+  border: 2px solid black;
+}
 .ball {
   height: 300px;
   background-color: #FEBE10;
