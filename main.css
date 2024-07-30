@@ -8,7 +8,9 @@ ul {
   li {
     padding: 15px;
   }
-
+.main{
+  height: 400px;
+}
   
 
 .ball {
@@ -16,11 +18,10 @@ ul {
   background-color: #FEBE10;
 }
 
-.ball .left {
+.ball .yellow-box{
+  padding-top: 10%;
+  margin: auto;
+  text-align: center;
   width: 40%;
-  text-align: left;
-}
-.ball .right {
-  width: 40%;
-  text-align: right;
+  display: inline-block;
 }
