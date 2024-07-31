@@ -1,3 +1,16 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+nav {
+  border-top: 8px solid black;
+}
+
+nav img {
+  height: 60px;
+}
 
 ul {
     list-style-type: none;
@@ -7,6 +20,18 @@ ul {
   
   li {
     padding: 15px;
+  }
+
+  li a {
+    text-decoration: none;
+    color: black;
+  }
+
+  .get-started a {
+    padding: 5px;
+    background-color: #FEBE10;
+    border: 2px solid black;
+    border-radius: 8px;
   }
   
 .main{
