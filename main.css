@@ -11,6 +11,9 @@ ul {
 .main{
   height: 400px;
 }
+.main img {
+  align-items: right;
+}
   
 .main a {
   color: white;
